@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><jobs>
+
+<job>
+	 <jobid>004f686676ef</jobid>
+	 <title>Consultor Sumup</title>
+	 <company>Sumup</company>
+	 <city>null</city>
+	 <state>Alagoas</state>
+	 <country>br</country>
+	 <date>2021-02-03T13:02:51Z</date>
+     <inutils>
+         <currency>BRL</currency>
+         <cpc>0.36</cpc>
+     </inutils>
+</job>
+
+<job>
+	 <jobid><![CDATA[00563af1d12f]]></jobid>
+	 <title><![CDATA[Motorista Parceiro 99 - Aumente sua renda a qualquer hora]]></title>
+	 <company><![CDATA[99 App]]></company>
+     <location>
+        <city><![CDATA[null]]></city>
+        <uf>
+            <nestest>
+                <state><![CDATA[Santa Catarina]]></state>
+            </nestest>
+        </uf>
+     </location>
+	 <country><![CDATA[br]]></country>
+	 <date><![CDATA[2021-02-27T15:01:02Z]]></date>
+     <inutils>
+         <currency><![CDATA[BRL]]></currency>
+         <cpc><![CDATA[0.43]]></cpc>
+     </inutils>
+</job>
+
+<job>
+	 <jobid><![CDATA[005d62d0b476]]></jobid>
+	 <title><![CDATA[Seja a voz oficial da SumUp onde estiver.]]></title>
+	 <company><![CDATA[Sumup]]></company>
+	 <city><![CDATA[Maceió]]></city>
+	 <state><![CDATA[Alagoas]]></state>
+	 <country><![CDATA[br]]></country>
+	 <date><![CDATA[2021-03-23T08:36:31Z]]></date>
+     <inutils>
+         <currency><![CDATA[BRL]]></currency>
+         <cpc><![CDATA[0.36]]></cpc>
+    </inutils>
+</job>
+
+</jobs>
